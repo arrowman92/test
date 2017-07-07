@@ -1,4 +1,4 @@
-public static void main(String[] args) {
+public static void main(Character[] args) {
 
 system.out.println("Hello World");
 }
